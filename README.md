@@ -24,6 +24,7 @@ You can find me tinkering with:
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
+
 #### Databases
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -31,6 +32,7 @@ You can find me tinkering with:
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" alt="DynamoDB" />
 </p>
+
 #### Cloud & DevOps
 <p>
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
@@ -40,6 +42,7 @@ You can find me tinkering with:
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
 </p>
+
 #### Architecture & Tools
 <p>
 <img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=microservices&logoColor=white" alt="Microservices" />
@@ -49,6 +52,7 @@ You can find me tinkering with:
 <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog" />
 <img src="https://img.shields.io/badge/Sentry-362D5A?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry" />
 </p>
+
 #### AI & Automation
 <p>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
@@ -59,6 +63,7 @@ You can find me tinkering with:
 <img src="https://img.shields.io/badge/make.com-4F4F4F?style=for-the-badge&logo=make&logoColor=white" alt="make.com" />
 <img src="https://img.shields.io/badge/Cursor-1A1A1A?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
 </p>
+
 ---
 
 ### Let's connect!
