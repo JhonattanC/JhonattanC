@@ -64,6 +64,26 @@ You can find me tinkering with:
 <img src="https://img.shields.io/badge/Cursor-1A1A1A?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
 </p>
 
+#### Embedded Systems & IoT
+<p>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
+<img src="https://img.shields.io/badge/Microchip-F26B22?style=for-the-badge&logo=microchiptechnology&logoColor=white" alt="Microchip" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+<img src="https://img.shields.io/badge/Altium_Designer-A50000?style=for-the-badge&logo=altiumdesigner&logoColor=white" alt="Altium Designer" />
+<img src="https://img.shields.io/badge/LoRaWAN-4A4A4A?style=for-the-badge&logo=rss&logoColor=white" alt="LoRaWAN" />
+<img src="https://img.shields.io/badge/WiFi-0073B5?style=for-the-badge&logo=wifi&logoColor=white" alt="WiFi" />
+<img src="https://img.shields.io/badge/BLE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white" alt="Bluetooth Low Energy" />
+</p>
+
+#### Design & 3D Modeling
+<p>
+<img src="https://img.shields.io/badge/SolidWorks-DA1D1D?style=for-the-badge&logo=solidworks&logoColor=white" alt="SolidWorks" />
+<img src="https://img.shields.io/badge/Ultimaker_Cura-26C1C9?style=for-the-badge&logo=ultimaker&logoColor=white" alt="Cura" />
+<img src="https://img.shields.io/badge/Fusion_360-A9C3F4?style=for-the-badge&logo=autodeskfusion360&logoColor=black" alt="Fusion 360" />
+</p>
+
 ---
 
 ### Let's connect!
